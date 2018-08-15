@@ -1,5 +1,7 @@
 # Patchbay
 
+---
+
 Patchbay is a scuttlebutt client designed to be easy to modify and extend.
 It uses the same database as Patchwork and Patchfoo, so you can easily take it for a spin with your existing identity.
 
